@@ -4,7 +4,7 @@
 
 **Flutter · Dart · Python · FastAPI · PostgreSQL · Supabase**
 
-[Explore the case study](https://aliriodarocha.dev/projects/gradingfy) · [View the portfolio](https://aliriodarocha.dev) · [Contact the developer](mailto:alirio.darocha@outlook.com)
+[Official GradingFy website](https://gradingfy.com/) · [Engineering case study](https://aliriodarocha.dev/projects/gradingfy) · [Developer portfolio](https://aliriodarocha.dev) · [Contact](mailto:alirio.darocha@outlook.com)
 
 > **Engineering case study · Active development**  
 > This public repository documents GradingFy's design and selected authentic user-interface captures. The application, API, scanner, grading engine, data assets, and deployment configuration are maintained in private repositories. This repository is **not** the production source code or a runnable distribution.
